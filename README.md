@@ -17,10 +17,22 @@ Sou estudante de Sistemas de Informação na UNEX, com interesse em Segurança d
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/keltonalmeida/">
+  <a href="https://www.linkedin.com/in/keltonalmeida">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.youtube.com/@eukeltonalmeida">
     <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+
+  <a href="https://www.instagram.com/ktnlps">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:fsakelton@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+📧 **E-mail:** fsakelton@gmail.com  
+📸 **Instagram:** @ktnlps

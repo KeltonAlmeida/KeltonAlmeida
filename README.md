@@ -6,21 +6,23 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
 
 ### 🛡️ Tecnologias, Segurança e Bancos de Dados
 
+### 💻 Tecnologias
+
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" 
@@ -32,32 +34,22 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
 />
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
 />
 
 <br/>
-<br/>
-
 ### 🧑‍💻 Redes Sociais e Contato
 
 <p align="left">

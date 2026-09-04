@@ -58,7 +58,7 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
 <br/>
 <br/>
 
-### 📊 Profile
+### 🧑‍💻 Social Medias
 
 <a href="https://www.linkedin.com/in/keltonalmeida/">
   <img 
@@ -68,5 +68,35 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
+
+<a href="https://www.youtube.com/@eukeltonalmeida">
+  <img 
+    align="left" 
+    alt="Kelton Almeida | YouTube" 
+    title="Conecte-se comigo no YouTube" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>YouTube-logo || Codewithzan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="youtube-logo">
+    <div class="logo">
+
+    </div>
+  </div>
+  <div class="youtube">
+    <p>
+      YouTube
+    </p>
+  </div>
+</body>
+</html>
   />
 </a>

@@ -60,12 +60,13 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
 
 ### 📊 Profile
 
-<p>
-<img 
-      align="left" 
-      alt="Linkedin" 
-      height="200" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://pt.pngtree.com/freepng/linkedin-white-icon-vector_3570423.html)username=keltonlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<a href="https://www.linkedin.com/in/keltonalmeida/">
+  <img 
+    align="left" 
+    alt="Kelton Almeida | LinkedIn" 
+    title="Conecte-se comigo no LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
-
-</p>
+</a>

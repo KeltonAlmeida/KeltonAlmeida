@@ -76,5 +76,3 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
     />
   </a>
 </p>
-
-<br/>

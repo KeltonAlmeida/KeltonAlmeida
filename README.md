@@ -13,7 +13,7 @@
 ---
 
 > 💬 *"O tempo às vezes é alheio à nossa vontade, mas só o que é bom dura tempo o bastante pra se tornar inesquecível."*
-> — inspirado no espírito do Charlie Brown Jr. 🎸
+> — Charlie Brown Jr. 🎸
 
 ---
 

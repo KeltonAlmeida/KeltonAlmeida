@@ -58,22 +58,14 @@ Me chamo Kelton Lopes Almeida, tenho 23 anos e sou estudante de Sistemas de Info
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Profile
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=keltonlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Linkedin" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=keltonlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://pt.pngtree.com/freepng/linkedin-white-icon-vector_3570423.html)username=keltonlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

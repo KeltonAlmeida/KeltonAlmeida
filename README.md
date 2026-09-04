@@ -12,7 +12,7 @@
 
 ---
 
-> 💬 *"Viver com a força de quem já caiu e se levantou é a maior prova de coragem que existe."*
+> 💬 *"O tempo às vezes é alheio à nossa vontade, mas só o que é bom dura tempo o bastante pra se tornar inesquecível."*
 > — inspirado no espírito do Charlie Brown Jr. 🎸
 
 ---

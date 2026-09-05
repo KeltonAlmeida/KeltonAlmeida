@@ -12,8 +12,8 @@
 
 ---
 
-> 💬 *"O tempo às vezes é alheio à nossa vontade, mas só o que é bom dura tempo o bastante pra se tornar inesquecível."*
-> — Charlie Brown Jr. 🎸
+>  *"O tempo às vezes é alheio à nossa vontade, mas só o que é bom dura tempo o bastante pra se tornar inesquecível."*
+> — Charlie Brown Jr. 
 
 ---
 

@@ -31,15 +31,11 @@ Tenho experiência prática com **suporte técnico**, **atendimento ao cliente**
 ---
 
 ##  Tecnologias & Ferramentas
-
 <p align="left">
   <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Power BI" title="Power BI" width="40px" src="https://img.icons8.com/color/48/power-bi.png" />
   <img alt="Excel" title="Excel" width="40px" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
-  <img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---

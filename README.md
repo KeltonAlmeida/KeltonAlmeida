@@ -65,6 +65,4 @@ Tenho experiência prática com **suporte técnico**, **atendimento ao cliente**
 
 📧 **E-mail:** fsakelton@gmail.com &nbsp;|&nbsp; 📸 **Instagram:** [@ktnlps](https://www.instagram.com/ktnlps)
 
-✞ *Filipenses 3:14* ✞
-
 </div>

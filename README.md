@@ -23,14 +23,14 @@ Sou estudante de **Sistemas de Informação** na UNEX, com interesse em **Segura
 
 Tenho experiência prática com **suporte técnico**, **atendimento ao cliente** e **manutenção de computadores**, o que me deu uma base sólida para entender problemas reais de usuários e infraestrutura — e é isso que me motiva a evoluir cada vez mais na área de tecnologia.
 
-- 🔭 Atualmente estudando **Segurança da Informação** e **Banco de Dados**
-- 🌱 Aprofundando conhecimentos em **Python** e **Análise de Dados**
-- 💡 Interesse em **Cyber Security** e boas práticas de proteção de dados
-- 📫 Como me encontrar: **fsakelton@gmail.com**
+-  Atualmente estudando **Segurança da Informação** e **Banco de Dados**
+-  Aprofundando conhecimentos em **Python** e **Análise de Dados**
+-  Interesse em **Cyber Security** e boas práticas de proteção de dados
+-  Como me encontrar: **fsakelton@gmail.com**
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="left">
   <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -44,7 +44,7 @@ Tenho experiência prática com **suporte técnico**, **atendimento ao cliente**
 
 ---
 
-## 🌐 Contato
+##  Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/keltonalmeida" target="_blank">

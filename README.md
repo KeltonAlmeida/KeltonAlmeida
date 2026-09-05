@@ -26,7 +26,7 @@ Tenho experiência prática com **suporte técnico**, **atendimento ao cliente**
 -  Atualmente estudando **Segurança da Informação** e **Banco de Dados**
 -  Aprofundando conhecimentos em **Python** e **Análise de Dados**
 -  Interesse em **Cyber Security** e boas práticas de proteção de dados
--  Como me encontrar: **fsakelton@gmail.com**
+-  Contato: **fsakelton@gmail.com**
 
 ---
 

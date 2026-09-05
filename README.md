@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨🏻‍💻 Kelton Almeida
+# Kelton Almeida
 
 ### Estudante de Sistemas de Informação | Cyber Security | Banco de Dados
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Sistemas de Informação** na UNEX, com interesse em **Segurança da Informação**, **Banco de Dados** e **Análise de Dados**.
 

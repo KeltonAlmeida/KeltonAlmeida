@@ -43,7 +43,7 @@ Tenho background em suporte técnico e atendimento ao cliente, o que me deu uma 
 Análise de dados de vendas: limpeza e tratamento com pandas, modelagem e construção de dashboard interativo no Power BI para acompanhamento de indicadores comerciais.
 `Python` `pandas` `Power BI` `DAX`
 
-> *(Atualize o link acima assim que o repositório estiver publicado)*
+> *[(Atualize o link acima assim que o repositório estiver publicado)](https://github.com/KeltonAlmeida/PowerBi)*
 
 ---
 

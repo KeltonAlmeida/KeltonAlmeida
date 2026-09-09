@@ -1,15 +1,15 @@
-# 👋 Olá, sou Kelton Almeida
+# Olá, sou Kelton Almeida
 
 **Graduando em Sistemas de Informação (UNEX) | Data Analytics & BI**
 Transformando dados brutos em decisões estratégicas.
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando tratamento de dados, criação de dashboards e modelagem de bancos de dados. Com bagagem em suporte técnico, foco em resolução prática de problemas, visão analítica e comunicação objetiva.
 
-🎯 **Objetivo:** Estágio / Posição Júnior em Dados, BI ou Banco de Dados.
+ **Objetivo:** Estágio / Posição Júnior em Dados, BI ou Banco de Dados.
 
 ---
 
@@ -39,7 +39,7 @@ Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando t
 
 ---
 
-### 📫 Conecte-se comigo
+### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)

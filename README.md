@@ -26,15 +26,15 @@ Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando t
 #### 📊 Dashboard de Vendas
 * **Descrição:** Tratamento e limpeza de dados comerciais para acompanhamento de KPIs em dashboard interativo.
 * **Tecnologias:** Python (Pandas), Power BI (DAX), Excel.
-* 🔗 **[Acessar Projeto](https://github.com/seu-usuario/seu-repositorio)** *(substitua pelo seu link)*
+* 🔗 **[Ver Repositório de Projetos Power BI](https://github.com/KeltonAlmeida/PowerBi)**
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ---

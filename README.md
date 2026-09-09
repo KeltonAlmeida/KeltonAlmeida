@@ -1,59 +1,109 @@
 <div align="center">
 
-# Kelton Almeida
+# 👋 Olá, eu sou Kelton Almeida
 
-**Analista de Dados em formação | Excel · Python · SQL · Power BI**
+### 🎓 Graduando em Sistemas de Informação | 📊 Data Analytics & BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)
+Transformando dados em informações úteis através de **Excel, SQL, Python e Power BI**.
+
+<br>
+
+<a href="https://linkedin.com/in/keltonalmeida">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fsakelton@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### Sobre mim
+## 🚀 Sobre Mim
 
-Estudante de Sistemas de Informação (UNEX) migrando para a área de **Análise de Dados e Business Intelligence**, com base em Excel, Python (pandas) e Power BI. Transformo dados brutos em dashboards e relatórios que apoiam decisões de negócio.
+Sou graduando em **Sistemas de Informação na UNEX**, com foco em **Análise de Dados, Business Intelligence e Banco de Dados**.
 
-Tenho background em suporte técnico e atendimento ao cliente, o que me deu uma base sólida em resolução de problemas, comunicação com áreas não técnicas e organização — habilidades que aplico diretamente na tradução de dados em insights compreensíveis.
+Atualmente desenvolvo projetos utilizando **Excel, SQL, Python e Power BI**, transformando dados em dashboards, relatórios e insights para apoiar a tomada de decisões.
 
-**Buscando:** estágio ou posição júnior em Análise de Dados, BI ou Banco de Dados.
+Minha experiência em **suporte técnico, manutenção de computadores e atendimento ao cliente** fortaleceu habilidades como:
 
----
+✔ Resolução de problemas
+✔ Comunicação clara
+✔ Organização de informações
+✔ Pensamento analítico
+✔ Aprendizado contínuo
 
-### 🛠️ Stack
-
-| Análise de Dados | Ferramentas | Banco de Dados |
-|---|---|---|
-| Python (pandas) | Power BI | SQL |
-| Excel avançado | Git / GitHub | (em estudo) |
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+🎯 **Objetivo:** conquistar uma oportunidade de estágio ou posição júnior em Dados, BI ou Banco de Dados.
 
 ---
 
-### 📌 Projetos em destaque
+## 💻 Tecnologias
 
-**[Dashboard de Vendas — Excel + Python + Power BI](#)**
-Análise de dados de vendas: limpeza e tratamento com pandas, modelagem e construção de dashboard interativo no Power BI para acompanhamento de indicadores comerciais.
-`Python` `pandas` `Power BI` `DAX`
+<div align="center">
 
-> *[(Atualize o link acima assim que o repositório estiver publicado)](https://github.com/KeltonAlmeida/PowerBi)*
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-### 📈 Atividade
+## 📂 Projetos
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=default&hide_border=true)
+### 📊 Dashboard de Vendas
+
+Projeto desenvolvido com tratamento de dados em Python e visualização em Power BI para análise de indicadores comerciais.
+
+**Tecnologias:**
+`Python` `Pandas` `Power BI` `DAX` `Excel`
+
+🔗 Em breve
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+* SQL para Análise de Dados
+* Power BI e DAX
+* Python para Data Analytics
+* Banco de Dados
+* Business Intelligence
+* Fundamentos de Cyber Security
 
 ---
 
 <div align="center">
-<sub>Aberto a oportunidades e feedback — fique à vontade para entrar em contato.</sub>
+
+### 📫 Vamos nos conectar?
+
+💼 LinkedIn: linkedin.com/in/keltonalmeida
+
+📧 E-mail: [fsakelton@gmail.com](mailto:fsakelton@gmail.com)
+
+⭐ Sempre aberto a oportunidades de estágio, networking e projetos na área de tecnologia.
+
 </div>

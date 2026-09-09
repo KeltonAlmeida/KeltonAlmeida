@@ -19,7 +19,6 @@ Também possuo experiência com **suporte técnico, manutenção de computadores
 ---
 
 ## Contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)
 

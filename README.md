@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Sobre mim:
 Estudante de Sistemas de Informação na UNEX, com interesse em Segurança da Informação, Banco de Dados e Análise de Dados. Experiência prática com suporte técnico, atendimento ao cliente e manutenção de computadores.<br><br>Tecnologias: SQL · Python · Power BI · Excel
 
 
-## 🌐 Socials:
+## 🌐 Mídias:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keltonalmeida) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com) 
 
 # 💻 Tech Stack:

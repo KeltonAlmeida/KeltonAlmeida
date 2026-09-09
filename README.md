@@ -4,7 +4,7 @@
 
 # Kelton Almeida
 
-### Estudante de Sistemas de Informação | Cyber Security | Banco de Dados
+### Estudante de Sistemas de Informação | Cyber Security | Analista de Dados
 
 </div>
 

@@ -1,11 +1,12 @@
 # 👋 Olá, sou Kelton Almeida
 
-**Graduando em Sistemas de Informação (UNEX) | Data Analytics & BI**  
+**Graduando em Sistemas de Informação (UNEX) | Data Analytics & BI**
 Transformando dados brutos em decisões estratégicas.
 
 ---
 
 ### 🚀 Sobre Mim
+
 Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando tratamento de dados, criação de dashboards e modelagem de bancos de dados. Com bagagem em suporte técnico, foco em resolução prática de problemas, visão analítica e comunicação objetiva.
 
 🎯 **Objetivo:** Estágio / Posição Júnior em Dados, BI ou Banco de Dados.
@@ -24,22 +25,32 @@ Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando t
 ### 📂 Projetos em Destaque
 
 #### 📊 Dashboard de Vendas
-* **Descrição:** Tratamento e limpeza de dados comerciais para acompanhamento de KPIs em dashboard interativo.
-* **Tecnologias:** Python (Pandas), Power BI (DAX), Excel.
-* 🔗 **[Ver Repositório de Projetos Power BI](https://github.com/KeltonAlmeida/PowerBi)**
+- **Descrição:** Tratamento e limpeza de dados comerciais para acompanhamento de KPIs em dashboard interativo.
+- **Tecnologias:** Python (Pandas), Power BI (DAX), Excel.
+- 🔗 **[Ver Repositório de Projetos Power BI](https://github.com/KeltonAlmeida/PowerBi)**
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KeltonAlmeida&theme=radical&hide_border=false" alt="Streak de contribuições"/>
 </p>
 
 ---
 
-### 📫 Conecte-se comigo:
+### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&color=blueviolet" alt="Visitor count"/>
+</p>

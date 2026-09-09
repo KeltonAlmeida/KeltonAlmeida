@@ -34,12 +34,12 @@ Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando t
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KeltonAlmeida&theme=radical&hide_border=false" alt="Streak de contribuições"/>
+  <img src="https://streak-stats.demolab.com/?user=KeltonAlmeida&theme=radical&hide_border=true" alt="Streak de contribuições" height="165"/>
 </p>
 
 ---

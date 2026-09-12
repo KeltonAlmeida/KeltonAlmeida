@@ -27,7 +27,7 @@ Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando t
 #### 📊 Dashboard de Vendas
 - **Descrição:** Tratamento e limpeza de dados comerciais para acompanhamento de KPIs em dashboard interativo.
 - **Tecnologias:** Python (Pandas), Power BI (DAX), Excel.
-- 🔗 **[Ver Repositório de Projetos Excel https://github.com/KeltonAlmeida/Excel**
+- 🔗 **[Ver Repositório de Projetos Excel https://github.com/KeltonAlmeida/Excel]**
 
 ---
 

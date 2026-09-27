@@ -1,51 +1,41 @@
-# Olá, sou Kelton Almeida
+# Olá, eu sou Kelton Almeida 👋
 
-**Graduando em Sistemas de Informação (UNEX) | Data Analytics & BI**
-Transformando dados brutos em decisões estratégicas.
+### 📊 Data Analytics | Business Intelligence | SQL | Python | Power BI
 
----
+Sou graduando em **Sistemas de Informação pela UNEX**, com foco em **Análise de Dados e Business Intelligence**.
 
-### Sobre Mim
+Busco transformar dados brutos em informações claras e úteis para apoiar a tomada de decisão, aplicando conhecimentos em **tratamento e análise de dados, criação de dashboards, SQL e modelagem de dados**.
 
-Desenvolvo soluções em Análise de Dados e Business Intelligence, integrando tratamento de dados, criação de dashboards e modelagem de bancos de dados. Com bagagem em suporte técnico, foco em resolução prática de problemas, visão analítica e comunicação objetiva.
-
- **Objetivo:** Estágio / Posição Júnior em Dados, BI ou Banco de Dados.
+Atualmente, busco oportunidade de **Estágio ou posição Júnior em Análise de Dados, BI ou áreas relacionadas a Dados**.
 
 ---
 
-### 💻 Stack Técnica
+## 👨‍💻 Sobre mim
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-### 📂 Projetos em Destaque
-
-#### 📊 Dashboard de Vendas
-- **Descrição:** Tratamento e limpeza de dados comerciais para acompanhamento de KPIs em dashboard interativo.
-- **Tecnologias:** Python (Pandas), Power BI (DAX), Excel.
-- 🔗 **Ver Repositório de Projetos Excel - https://github.com/KeltonAlmeida/Excel**
+- 🎓 Graduando em **Sistemas de Informação — UNEX**
+- 📊 Foco profissional em **Análise de Dados e Business Intelligence**
+- 🐍 Utilizo **Python** para tratamento, análise e exploração de dados
+- 🗃️ Conhecimentos em **SQL e bancos de dados relacionais**
+- 📈 Desenvolvimento de dashboards e indicadores com **Power BI**
+- 📑 Utilização de **Excel** para análise, organização e tratamento de dados
+- 🔎 Interesse em transformar dados em **insights e informações para tomada de decisão**
+- 🚀 Em busca da primeira oportunidade profissional em **Dados**
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KeltonAlmeida&theme=radical&hide_border=true" alt="Streak de contribuições" height="165"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
----
+### Conhecimentos
 
-### Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keltonalmeida)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&color=blueviolet" alt="Visitor count"/>
-</p>
+**Análise de Dados**
+- Limpeza e tratamento de dados
+- Análise exploratória
+-

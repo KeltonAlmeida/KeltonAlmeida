@@ -12,7 +12,7 @@ Atualmente, busco oportunidade de **Estágio ou posição Júnior em Análise de
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação — UNEX**
+- 🎓 Graduando em **Sistemas de Informação - UNEX**
 - 📊 Foco profissional em **Análise de Dados e Business Intelligence**
 - 🐍 Utilizo **Python** para tratamento, análise e exploração de dados
 - 🗃️ Conhecimentos em **SQL e bancos de dados relacionais**

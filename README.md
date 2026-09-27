@@ -38,4 +38,83 @@ Atualmente, busco oportunidade de **Estágio ou posição Júnior em Análise de
 **Análise de Dados**
 - Limpeza e tratamento de dados
 - Análise exploratória
--
+- Indicadores e KPIs
+- Visualização de dados
+- Identificação de padrões e tendências
+
+**Business Intelligence**
+- Criação de dashboards
+- Power BI
+- DAX
+- Modelagem de dados
+- Transformação de dados
+
+**Banco de Dados**
+- SQL
+- Consultas e filtros
+- Agregações
+- JOINs
+- Organização e estruturação de dados
+
+**Python**
+- Pandas
+- Manipulação de datasets
+- Limpeza e transformação de dados
+- Análise exploratória
+
+---
+
+## 📂 Projeto em Destaque
+
+### 📊 Comprovações em Dados
+
+Repositório principal do meu portfólio, destinado a reunir **projetos, estudos e aplicações práticas relacionadas à Análise de Dados**.
+
+O objetivo é demonstrar, de forma prática, conhecimentos utilizados no dia a dia de um profissional da área, como **tratamento, exploração, análise, visualização e interpretação de dados**.
+
+🔗 **[Acessar o repositório Comprova-es-Dados](https://github.com/KeltonAlmeida/Comprova-es-Dados)**
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade de **Estágio ou posição Júnior em Dados**, onde eu possa desenvolver minha experiência profissional e contribuir com:
+
+- Análise e tratamento de dados
+- Desenvolvimento de dashboards
+- Criação e acompanhamento de indicadores
+- Consultas SQL
+- Automação de análises com Python
+- Organização e interpretação de informações
+- Apoio à tomada de decisão baseada em dados
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KeltonAlmeida&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://linkedin.com/in/keltonalmeida">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fsakelton@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Dados bem analisados transformam informação em decisão.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&color=0e75b6&style=flat" alt="Visualizações do perfil"/>
+</p>

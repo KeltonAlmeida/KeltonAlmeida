@@ -1,6 +1,6 @@
 # Olá, eu sou Kelton Almeida 👋
 
-### 📊 Data Analytics | Business Intelligence | SQL | Python | Power BI
+### 📊 Data Analytics | Business Intelligence | SQL | Python | Excel
 
 Sou graduando em **Sistemas de Informação pela UNEX**, com foco em **Análise de Dados e Business Intelligence**.
 

@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=190&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Visualization&descAlignY=60&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Analista+de+Dados+Jr.;Estudante+de+Sistemas+de+Informação;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Looker+%7C+Data+Viz+%7C+Jupyter+Notebook;Transformando+dados+em+insights" alt="Typing SVG" />
+font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Analista+de+Dados+Jr.;Estudante+de+Sistemas+de+Informação;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Looker+%7C+Data+Viz+%7C+Jupyter+Notebook;Transformando+dados+em+insights" alt="Typing SVG" />
 </a>
 
 ![Formação](https://img.shields.io/badge/Graduação-Sistemas%20de%20Informação-6D28D9?style=flat-square)

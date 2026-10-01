@@ -19,9 +19,6 @@
   <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&label=VISUALIZAÇÕES&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/KeltonAlmeida?label=SEGUIDORES&style=flat-square&color=4F46E5"/>
-
 </div>
 
 ---

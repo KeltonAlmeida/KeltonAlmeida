@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=190&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Visualization&descAlignY=60&descSize=16"/>
 
-<a href="https://git.io/typing-svg">
-font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Analista+de+Dados+Jr.;Estudante+de+Sistemas+de+Informação;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Looker+%7C+Data+Viz+%7C+Jupyter+Notebook;Transformando+dados+em+insights" alt="Typing SVG" />
-</a>
-
 ![Formação](https://img.shields.io/badge/Graduação-Sistemas%20de%20Informação-6D28D9?style=flat-square)
 ![Área](https://img.shields.io/badge/Foco-Análise%20de%20Dados-4F46E5?style=flat-square)
 ![BI](https://img.shields.io/badge/Business-Intelligence-7C3AED?style=flat-square)
@@ -133,4 +129,85 @@ O projeto **Comprovação em Dados** reúne aplicações práticas, estudos e ev
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data%20Viz-Visualization-6D28D9?style=for-the-badge)
-![
+![Looker](https://img.shields.io/badge/Looker-Business%20Intelligence-7C3AED?style=for-the-badge&logo=looker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Data%20Analysis-312E81?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"/>
+
+</div>
+
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonAlmeida&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## Foco Atual
+
+```yaml
+Learning:
+  - Python
+  - SQL
+  - Excel
+  - Power BI
+  - Looker
+  - Data Visualization
+
+Building:
+  - Portfólio de Analista de Dados
+  - Projeto Comprovação em Dados
+  - Dashboards
+  - Análises Exploratórias
+
+Improving:
+  - Limpeza de Dados
+  - KPIs
+  - Storytelling com Dados
+  - Pensamento Analítico
+
+Open_To:
+  - Analista de Dados Jr.
+  - Analista de BI Jr.
+  - Estágio em Dados
+```
+
+---
+
+## Conecte-se
+
+<div align="center">
+
+<a href="mailto:fsakelton@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/keltonalmeida/">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/KeltonAlmeida">
+  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad">
+  <img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
+**Transformando dados em informação, informação em insight e insight em melhores decisões.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=100&section=footer"/>

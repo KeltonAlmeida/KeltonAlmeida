@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=190&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Visualization&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=180&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Visualization&descAlignY=60&descSize=16"/>
 
-![Formação](https://img.shields.io/badge/Graduação-Sistemas%20de%20Informação-6D28D9?style=flat-square)
-![Área](https://img.shields.io/badge/Foco-Análise%20de%20Dados-4F46E5?style=flat-square)
-![BI](https://img.shields.io/badge/Business-Intelligence-7C3AED?style=flat-square)
+![Formação](https://img.shields.io/badge/Sistemas%20de%20Informação-6D28D9?style=flat-square)
+![Área](https://img.shields.io/badge/Analista%20de%20Dados%20Jr.-4F46E5?style=flat-square)
+![BI](https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=flat-square)
 
 <a href="https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad">
   <img src="https://img.shields.io/badge/PORTFÓLIO-6D28D9?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -21,7 +21,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&label=VISUALIZAÇÕES&color=6D28D9&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/KeltonAlmeida?label=SEGUIDORES&style=flat-square&color=4F46E5"/>
-<img src="https://img.shields.io/github/stars/KeltonAlmeida?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=7C3AED"/>
 
 </div>
 
@@ -29,22 +28,11 @@
 
 ## Sobre Mim
 
-Sou **Kelton Almeida**, estudante de **Sistemas de Informação** e profissional em desenvolvimento na área de **Análise de Dados**, com foco em transformar dados brutos em informações claras, visualizações relevantes e insights que auxiliem na tomada de decisão.
+Sou **Kelton Almeida**, estudante de **Sistemas de Informação** com foco profissional em **Análise de Dados e Business Intelligence**.
 
-Desenvolvo meus conhecimentos principalmente em **Python, SQL, Excel, Power BI, Looker, Jupyter Notebook e Visualização de Dados**, aplicando essas ferramentas em projetos voltados à análise, tratamento e comunicação de informações.
+Desenvolvo projetos utilizando **Python, SQL, Excel, Power BI, Looker e Jupyter Notebook**, com foco em transformar dados em análises, indicadores, dashboards e insights úteis para tomada de decisão.
 
-Tenho interesse em **análise exploratória, limpeza de dados, criação de KPIs, construção de dashboards, Business Intelligence e storytelling com dados**.
-
-Busco unir conhecimento técnico e entendimento de negócio para produzir análises objetivas, organizadas e úteis.
-
-### Open To
-
-```text
-Analista de Dados Jr.  | Data Analyst Jr.
-Analista de BI Jr.     | BI Analyst Jr.
-Estágio em Dados       | Data Internship
-Business Intelligence  | Data Analytics
-```
+Tenho interesse em oportunidades como **Analista de Dados Jr., Analista de BI Jr. e Estágio em Dados**.
 
 ---
 
@@ -62,10 +50,10 @@ Business Intelligence  | Data Analytics
 ### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-4F46E5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-4F46E5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-7C3AED?style=for-the-badge&logo=looker&logoColor=white)
 
-### Data Visualization & Notebooks
+### Data Visualization
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-312E81?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge&logo=python&logoColor=white)
@@ -79,44 +67,54 @@ Business Intelligence  | Data Analytics
 
 | Área | Aplicação |
 | :--- | :--- |
-| **Análise Exploratória** | Exploração de dados, identificação de padrões e geração de insights |
-| **Python** | Manipulação, limpeza e análise de dados |
-| **SQL** | Consultas, filtros, agregações, JOINs e análise de bases |
-| **Excel** | Organização, tratamento, fórmulas, tabelas e análises |
-| **Power BI** | Dashboards, indicadores e visualizações |
-| **Looker** | Business Intelligence e visualização de dados |
-| **Data Visualization** | Construção de gráficos e comunicação visual |
-| **Data Cleaning** | Tratamento de inconsistências, duplicidades e valores ausentes |
+| **Análise Exploratória** | Identificação de padrões, tendências e insights |
+| **Python** | Limpeza, transformação e análise de dados |
+| **SQL** | Consultas, JOINs, filtros e agregações |
+| **Excel** | Tratamento, fórmulas, tabelas e análises |
+| **Power BI** | Dashboards, KPIs e visualizações |
+| **Looker** | Business Intelligence e visualização |
+| **Data Cleaning** | Tratamento de inconsistências e duplicidades |
+| **Data Visualization** | Gráficos e comunicação visual |
 | **KPIs** | Construção e acompanhamento de indicadores |
-| **Storytelling com Dados** | Comunicação de análises e insights de negócio |
+| **Storytelling** | Comunicação clara de resultados analíticos |
 
 ---
 
-## Projetos em Destaque
+## Projeto em Destaque
 
-<details>
+<details open>
 <summary><b>Comprovação em Dados</b></summary>
 
-Projeto de portfólio voltado à demonstração prática de conhecimentos e competências desenvolvidas na área de **Análise de Dados**.
+Projeto de portfólio direcionado à demonstração prática de conhecimentos em **Análise de Dados**.
 
 | Informação | Detalhes |
 | :--- | :--- |
-| **Área** | Análise de Dados |
-| **Tipo** | Projeto de Portfólio |
+| **Área** | Data Analytics |
+| **Objetivo** | Demonstrar competências práticas na área de dados |
 | **Status** | Em desenvolvimento |
-| **Repositório** | [Comprovação em Dados](https://github.com/KeltonAlmeida/Comprova-es-Dados) |
+| **Repositório** | [github.com/KeltonAlmeida/Comprova-es-Dados](https://github.com/KeltonAlmeida/Comprova-es-Dados) |
 
-O projeto **Comprovação em Dados** reúne aplicações práticas, estudos e evidências do meu desenvolvimento técnico na área de dados.
+O projeto reúne estudos e aplicações práticas desenvolvidas durante minha evolução profissional em dados.
 
 <div align="center">
 
 <a href="https://github.com/KeltonAlmeida/Comprova-es-Dados">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 </details>
+
+---
+
+## Formação
+
+### Sistemas de Informação
+
+Graduação voltada ao desenvolvimento de conhecimentos em tecnologia, sistemas, bancos de dados e resolução de problemas.
+
+**Foco profissional atual:** Análise de Dados e Business Intelligence.
 
 ---
 
@@ -160,7 +158,7 @@ O projeto **Comprovação em Dados** reúne aplicações práticas, estudos e ev
 
 ## Foco Atual
 
-```yaml
+```yaml id="f27w1c"
 Learning:
   - Python
   - SQL
@@ -170,16 +168,10 @@ Learning:
   - Data Visualization
 
 Building:
-  - Portfólio de Analista de Dados
-  - Projeto Comprovação em Dados
+  - Portfólio de Dados
+  - Comprovação em Dados
   - Dashboards
   - Análises Exploratórias
-
-Improving:
-  - Limpeza de Dados
-  - KPIs
-  - Storytelling com Dados
-  - Pensamento Analítico
 
 Open_To:
   - Analista de Dados Jr.
@@ -206,8 +198,8 @@ Open_To:
   <img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
-**Transformando dados em informação, informação em insight e insight em melhores decisões.**
+**Transformando dados em informação e informação em melhores decisões.**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=90&section=footer"/>

@@ -1,37 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=210&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Insights&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=210&section=header&text=Kelton%20Almeida&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Visualization&descAlignY=58&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Analista+de+Dados+Jr.;Estudante+de+Sistemas+de+Informação;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+Business+Intelligence;Transformando+dados+em+insights+para+decisões" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Analista+de+Dados+Jr.;Estudante+de+Sistemas+de+Informação;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Looker+%7C+Data+Viz+%7C+Jupyter+Notebook;Transformando+dados+em+insights+para+decisões" alt="Typing SVG" />
 </a>
 
 <br>
 
 ![Formação](https://img.shields.io/badge/Graduação-Sistemas%20de%20Informação-6D28D9?style=flat-square&logo=graduationcap&logoColor=white)
-![Área](https://img.shields.io/badge/Foco-Data%20Analytics-4F46E5?style=flat-square&logo=databricks&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento%20contínuo-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
+![Área](https://img.shields.io/badge/Foco-Análise%20de%20Dados-4F46E5?style=flat-square&logo=databricks&logoColor=white)
+![BI](https://img.shields.io/badge/Business-Intelligence-7C3AED?style=flat-square&logo=looker&logoColor=white)
 
 <br><br>
 
 <a href="https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad">
   <img src="https://img.shields.io/badge/PORTFÓLIO-6D28D9?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/keltonalmeida/">
   <img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:fsakelton@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/SEU-USUARIO">
+
+<a href="https://github.com/KeltonAlmeida">
   <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISUALIZAÇÕES&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?label=SEGUIDORES&style=flat-square&color=4F46E5"/>
-<img src="https://img.shields.io/github/stars/SEU-USUARIO?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=KeltonAlmeida&label=VISUALIZAÇÕES&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/KeltonAlmeida?label=SEGUIDORES&style=flat-square&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/KeltonAlmeida?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=7C3AED"/>
 
 </div>
 
@@ -39,333 +42,142 @@
 
 ## Sobre Mim
 
-Sou **Kelton Almeida**, estudante de **Sistemas de Informação** e profissional em desenvolvimento na área de **Dados**, com foco em **Análise de Dados, Business Intelligence e geração de insights para apoio à tomada de decisão**.
+Sou **Kelton Almeida**, estudante de **Sistemas de Informação** e profissional em desenvolvimento na área de **Análise de Dados**, com interesse em transformar dados brutos em informações claras, visualizações relevantes e insights capazes de apoiar decisões.
 
-Minha base técnica está concentrada em **Python, SQL, Power BI e Excel**, ferramentas que utilizo para realizar tratamento, exploração, modelagem, análise e visualização de dados.
+Meu foco está no desenvolvimento de competências em **Python, SQL, Excel, Power BI, Looker, Jupyter Notebook e Visualização de Dados**, aplicando essas ferramentas em projetos e estudos voltados à resolução de problemas analíticos.
 
-Tenho interesse em compreender o problema antes da ferramenta, buscando transformar dados brutos em informações claras e úteis para o negócio. Em meus projetos, procuro aplicar boas práticas de **limpeza de dados, análise exploratória, construção de KPIs, visualização, documentação e storytelling com dados**.
+Tenho interesse especial em atividades como **limpeza e preparação de dados, análise exploratória, criação de indicadores, construção de dashboards, Business Intelligence e comunicação de resultados**.
 
-Também venho expandindo meus conhecimentos em **estatística, bancos de dados, ETL, modelagem dimensional, Machine Learning e fundamentos de Engenharia de Dados**, sempre priorizando projetos práticos e aprendizado contínuo.
+Busco desenvolver uma visão analítica que combine tecnologia e negócio, procurando compreender o problema antes de escolher a ferramenta e apresentando resultados de maneira objetiva e compreensível.
 
-Minha formação em **Sistemas de Informação** complementa esse desenvolvimento ao ampliar minha compreensão sobre tecnologia, processos, sistemas, bancos de dados e resolução estruturada de problemas.
+Minha graduação em **Sistemas de Informação** complementa essa trajetória ao ampliar meus conhecimentos sobre tecnologia, sistemas, bancos de dados e resolução estruturada de problemas.
 
 ### Open To
 
 ```text
-Data Analyst Jr.      | Analista de Dados Jr.
-BI Analyst Jr.        | Analista de BI Jr.
-Data Internship       | Estágio em Dados
-BI Internship         | Estágio em Business Intelligence
-Analytics Projects    | Projetos de Dados e Analytics
+Analista de Dados Jr.      | Data Analyst Jr.
+Analista de BI Jr.         | BI Analyst Jr.
+Estágio em Dados           | Data Internship
+Business Intelligence      | Data Analytics
+Projetos de Dados          | Analytics Projects
 ```
 
 ---
 
 ## Tech Stack
 
-### Linguagens
+### Linguagens & Análise
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-<br>
+<br><br>
 
-![SQL](https://img.shields.io/badge/SQL-312E81?style=for-the-badge&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-### Data Analytics & Business Intelligence
+### Business Intelligence & Visualização
 
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Power_BI-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5B21B6?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-4F46E5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-Data%20Visualization-7C3AED?style=for-the-badge&logo=looker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Data%20Analysis-312E81?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-### Bancos de Dados
+### Python para Dados
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-312E81?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4F46E5?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-6D28D9?style=flat-square&logo=sqlite&logoColor=white)
-
-</div>
-
-### Cloud, DevOps & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
-
-<br>
-
-![Jupyter](https://img.shields.io/badge/Jupyter-7C3AED?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-4F46E5?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5B21B6?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-312E81?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-4338CA?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-5B21B6?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## Dados, Estatística & Machine Learning
+## Competências em Análise de Dados
 
-| Domínio | Proficiência | Detalhes |
-| :--- | :---: | :--- |
-| **Análise Exploratória de Dados** | `Em desenvolvimento` | Limpeza, exploração, identificação de padrões, análise de distribuições e geração de insights |
-| **SQL & Bancos de Dados** | `Em desenvolvimento` | Consultas, JOINs, agregações, subqueries, CTEs e funções analíticas |
-| **Python para Dados** | `Em desenvolvimento` | Pandas, NumPy, tratamento de dados, automação e análise exploratória |
-| **Business Intelligence** | `Em desenvolvimento` | Dashboards, KPIs, Power Query, modelagem e fundamentos de DAX |
-| **Excel para Dados** | `Em desenvolvimento` | Limpeza, fórmulas, tabelas, análise e organização de dados |
-| **Estatística** | `Fundamentos` | Estatística descritiva, medidas de tendência, dispersão, correlação e distribuições |
-| **Machine Learning** | `Fundamentos` | Conceitos de regressão, classificação, clustering e avaliação de modelos |
-| **ETL / ELT** | `Fundamentos` | Extração, transformação, validação e carregamento de dados |
-| **Data Visualization** | `Em desenvolvimento` | Power BI, Matplotlib, Seaborn e princípios de visualização |
-| **Storytelling com Dados** | `Em desenvolvimento` | Comunicação de resultados e transformação de análises em insights de negócio |
+| Área | Foco |
+| :--- | :--- |
+| **Análise Exploratória de Dados** | Exploração, identificação de padrões, tendências e geração de insights |
+| **Python para Dados** | Manipulação, tratamento e análise utilizando bibliotecas voltadas a dados |
+| **SQL** | Consultas, filtros, agregações, relacionamentos e exploração de bases |
+| **Excel** | Organização, tratamento, fórmulas, tabelas e análise de dados |
+| **Power BI** | Construção de dashboards, indicadores e visualizações |
+| **Looker** | Business Intelligence e criação de visualizações analíticas |
+| **Data Visualization** | Comunicação visual de informações e construção de gráficos |
+| **Data Cleaning** | Tratamento de valores ausentes, inconsistências e duplicidades |
+| **KPIs & Métricas** | Construção e acompanhamento de indicadores |
+| **Storytelling com Dados** | Comunicação de análises de forma objetiva e orientada ao negócio |
 
 ---
 
 ## Projetos em Destaque
 
 <details>
-<summary><b>Dashboard Executivo de Vendas & Performance Comercial</b></summary>
+<summary><b>Comprovação em Dados</b></summary>
 
 <br>
 
-Dashboard analítico desenvolvido para transformar dados transacionais em indicadores de negócio relacionados a vendas, produtos, clientes e performance comercial.
+Projeto de portfólio desenvolvido para reunir e demonstrar conhecimentos relacionados à **Análise de Dados**.
 
-| Métrica | Detalhes |
+| Informação | Detalhes |
 | :--- | :--- |
-| **Stack** | Power BI · DAX · Power Query · Excel/CSV |
-| **Escala** | Base transacional estruturada para análise |
-| **Performance** | Modelagem de dados e construção de medidas analíticas |
-| **Segurança** | Utilização de dados públicos, fictícios ou anonimizados |
-| **Impacto** | Centralização de KPIs e apoio à análise comercial |
-| **Repositório** | [Acessar projeto](https://github.com/SEU-USUARIO/dashboard-vendas) |
+| **Área** | Análise de Dados |
+| **Perfil** | Projeto de Portfólio |
+| **Status** | Em desenvolvimento |
+| **GitHub** | [Acessar repositório](https://github.com/KeltonAlmeida/Comprova-es-Dados) |
 
-### Visão Técnica
+### Sobre o Projeto
 
-O projeto cobre diferentes etapas do processo de Business Intelligence, desde o tratamento dos dados até a construção de indicadores e dashboards.
+O projeto **Comprovação em Dados** faz parte do meu desenvolvimento profissional e portfólio direcionado à área de Análise de Dados.
 
-Principais análises:
+O repositório será utilizado para apresentar aplicações práticas, estudos e evidências das competências desenvolvidas ao longo da minha formação e aprendizado na área.
 
-- Receita total
-- Evolução de vendas ao longo do tempo
-- Ticket médio
-- Quantidade de pedidos
-- Produtos com maior faturamento
-- Performance por categoria
-- Performance por região
-- Análise de clientes
-- Comparação entre períodos
-- Indicadores de crescimento
+<div align="center">
 
-O objetivo é demonstrar capacidade de transformar uma base transacional em **informações úteis para acompanhamento e tomada de decisão**.
+<a href="https://github.com/KeltonAlmeida/Comprova-es-Dados">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</details>
-
-<br>
-
-<details>
-<summary><b>Análise Exploratória de Dados com Python</b></summary>
-
-<br>
-
-Projeto de análise exploratória desenvolvido para investigar uma base de dados, identificar padrões, inconsistências, tendências e possíveis relações entre variáveis.
-
-| Métrica | Detalhes |
-| :--- | :--- |
-| **Stack** | Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter |
-| **Escala** | Dataset estruturado com múltiplas variáveis |
-| **Performance** | Manipulação e processamento de dados utilizando Pandas |
-| **Segurança** | Utilização de datasets públicos ou anonimizados |
-| **Impacto** | Transformação de dados brutos em informações interpretáveis |
-| **Repositório** | [Acessar projeto](https://github.com/SEU-USUARIO/analise-exploratoria-python) |
-
-### Visão Técnica
-
-O projeto segue uma estrutura analítica reproduzível:
-
-- Compreensão inicial do dataset
-- Verificação dos tipos de dados
-- Identificação de valores ausentes
-- Tratamento de duplicidades
-- Estatística descritiva
-- Identificação de possíveis outliers
-- Análise univariada
-- Análise bivariada
-- Correlação entre variáveis
-- Construção de visualizações
-- Interpretação dos resultados
-- Documentação das conclusões
-
-A proposta é demonstrar não apenas o uso das ferramentas, mas também **raciocínio analítico e interpretação dos dados**.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>SQL Business Case — Análise de Clientes & Vendas</b></summary>
-
-<br>
-
-Projeto desenvolvido para responder perguntas de negócio utilizando SQL sobre um banco de dados relacional.
-
-| Métrica | Detalhes |
-| :--- | :--- |
-| **Stack** | PostgreSQL · SQL |
-| **Escala** | Múltiplas tabelas relacionadas |
-| **Performance** | Consultas estruturadas para análise |
-| **Segurança** | Dataset público, fictício ou anonimizado |
-| **Impacto** | Resolução de perguntas de negócio através de SQL |
-| **Repositório** | [Acessar projeto](https://github.com/SEU-USUARIO/sql-business-case) |
-
-### Visão Técnica
-
-O projeto explora cenários encontrados na rotina de análise:
-
-- Receita por período
-- Crescimento mensal
-- Ranking de produtos
-- Ranking de clientes
-- Ticket médio
-- Recorrência de compras
-- Segmentação de clientes
-- Análise por categoria
-- Participação percentual na receita
-- Comparação entre períodos
-- Valores acumulados
-
-Recursos SQL explorados:
-
-```sql
-SELECT
-WHERE
-JOIN
-GROUP BY
-HAVING
-CASE WHEN
-CTE
-SUBQUERY
-WINDOW FUNCTIONS
-RANK
-ROW_NUMBER
-LAG
-SUM OVER
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Pipeline ETL com Python & SQL</b></summary>
-
-<br>
-
-Projeto voltado à organização de um fluxo de extração, limpeza, transformação e armazenamento de dados para posterior utilização analítica.
-
-| Métrica | Detalhes |
-| :--- | :--- |
-| **Stack** | Python · Pandas · SQL |
-| **Escala** | Processamento de arquivos estruturados |
-| **Performance** | Automatização de etapas repetitivas de preparação |
-| **Segurança** | Validação de estrutura e tratamento de inconsistências |
-| **Impacto** | Organização e padronização do processo de preparação de dados |
-| **Repositório** | [Acessar projeto](https://github.com/SEU-USUARIO/python-etl-pipeline) |
-
-### Visão Técnica
-
-O fluxo pode contemplar:
-
-- Extração de arquivos
-- Padronização de colunas
-- Conversão de tipos
-- Tratamento de valores ausentes
-- Remoção de duplicidades
-- Validação de regras
-- Transformação dos dados
-- Armazenamento estruturado
-- Validação dos resultados
-
-O projeto demonstra fundamentos de **preparação, qualidade e organização de dados**.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Projeto Introdutório de Machine Learning</b></summary>
-
-<br>
-
-Projeto de estudo voltado à aplicação prática das principais etapas de um fluxo básico de Machine Learning.
-
-| Métrica | Detalhes |
-| :--- | :--- |
-| **Stack** | Python · Pandas · Scikit-learn · Matplotlib |
-| **Escala** | Dataset estruturado para aprendizado |
-| **Performance** | Avaliação por métricas adequadas ao problema |
-| **Segurança** | Dataset público ou anonimizado |
-| **Impacto** | Aplicação prática de conceitos introdutórios de Machine Learning |
-| **Repositório** | [Acessar projeto](https://github.com/SEU-USUARIO/machine-learning-project) |
-
-### Visão Técnica
-
-Etapas estudadas:
-
-- Análise exploratória
-- Preparação dos dados
-- Seleção de variáveis
-- Divisão entre treino e teste
-- Treinamento de modelos
-- Avaliação de métricas
-- Comparação de resultados
-- Interpretação do modelo
-- Identificação de limitações
-
-O foco é consolidar fundamentos e desenvolver uma compreensão estruturada do processo de modelagem.
+</div>
 
 </details>
 
 ---
 
-## Experiência
+## Desenvolvimento Profissional
 
-### Projetos de Dados & Desenvolvimento Acadêmico
+### Análise de Dados & Formação Acadêmica
 
-**Estudante de Sistemas de Informação**  
-`Em desenvolvimento contínuo`
+**Estudante de Sistemas de Informação**
 
-Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados a **análise de dados, Business Intelligence, bancos de dados e programação**.
+Desenvolvimento contínuo de competências técnicas e analíticas por meio de estudos, projetos e aplicações práticas voltadas à área de dados.
 
-#### Escopo de desenvolvimento
+### Principais áreas de desenvolvimento
 
-- Limpeza e preparação de dados
-- Análise exploratória utilizando Python
-- Construção de consultas SQL
-- Desenvolvimento de dashboards no Power BI
-- Criação de indicadores e KPIs
-- Organização e modelagem de dados
-- Desenvolvimento de visualizações analíticas
-- Prática de storytelling com dados
-- Versionamento de projetos com Git e GitHub
-- Documentação técnica dos projetos
-- Estudo de fundamentos de estatística
-- Estudo de ETL e Engenharia de Dados
-- Introdução a Machine Learning
+- Análise e interpretação de dados
+- Preparação e limpeza de bases
+- Análise exploratória de dados
+- Python aplicado à análise
+- Consultas e análises utilizando SQL
+- Excel aplicado a dados
+- Construção de dashboards no Power BI
+- Business Intelligence
+- Looker
+- Jupyter Notebook
+- Visualização de dados
+- Criação e acompanhamento de KPIs
+- Storytelling com dados
+- Documentação de projetos analíticos
 
 <br>
 
@@ -373,8 +185,8 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 ![SQL](https://img.shields.io/badge/SQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-312E81?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4F46E5?style=flat-square&logo=git&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-312E81?style=flat-square&logo=looker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-4F46E5?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -384,12 +196,12 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 
 | Reconhecimento | Detalhes |
 | :--- | :--- |
-| **Portfólio de Dados** | Desenvolvimento de portfólio profissional direcionado a oportunidades de Analista de Dados Jr. |
-| **Projetos Práticos** | Aplicação de Python, SQL, Power BI e Excel em estudos e projetos de análise |
-| **Sistemas de Informação** | Desenvolvimento acadêmico unindo tecnologia, dados e sistemas |
-| **Business Intelligence** | Estudos direcionados à criação de dashboards, indicadores e análises |
-| **GitHub Portfolio** | Organização de projetos técnicos com documentação e versionamento |
-| **Aprendizado Contínuo** | Evolução baseada em prática, projetos e construção constante de conhecimento |
+| **Portfólio de Dados** | Desenvolvimento de portfólio profissional direcionado à carreira de Analista de Dados |
+| **Comprovação em Dados** | Projeto dedicado à demonstração prática de conhecimentos na área |
+| **Sistemas de Informação** | Formação acadêmica conectando tecnologia, sistemas e dados |
+| **Business Intelligence** | Desenvolvimento de conhecimentos em dashboards, indicadores e visualização |
+| **Data Visualization** | Estudos voltados à comunicação eficiente de informações através de dados |
+| **Aprendizado Contínuo** | Desenvolvimento técnico através de estudos e projetos práticos |
 
 </div>
 
@@ -397,48 +209,35 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 
 ## Certificações
 
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20%26%20Data%20Learning-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-`Adicione aqui apenas certificações AWS que você já concluiu.`
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database%20%26%20SQL-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-
-`Adicione aqui apenas certificações Oracle que você já concluiu.`
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science-7C3AED?style=for-the-badge)
-
-`Adicione aqui apenas certificações NPTEL que você já concluiu.`
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Data%20Analytics%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white)
-
-`Adicione aqui apenas certificações Cisco que você já concluiu.`
-
----
-
-## Coding Profiles
-
 <div align="center">
 
-<a href="https://leetcode.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/LeetCode-312E81?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20%26%20Data-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Python
+
+![Python](https://img.shields.io/badge/Python-Data%20Analytics-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+
+### Excel
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Power BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)
+
+### Data Viz
+
+![Data Viz](https://img.shields.io/badge/Data%20Viz-Data%20Visualization-6D28D9?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### Looker
+
+![Looker](https://img.shields.io/badge/Looker-Business%20Intelligence-7C3AED?style=for-the-badge&logo=looker&logoColor=white)
+
+### Jupyter Notebook
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Data%20Analysis-312E81?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -448,33 +247,23 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
+<img width="49%" src="https://streak-stats.demolab.com?user=KeltonAlmeida&theme=transparent&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
 
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Atividade no GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## Atividade de Contribuições
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonAlmeida&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -485,9 +274,9 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeltonAlmeida/KeltonAlmeida/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeltonAlmeida/KeltonAlmeida/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeltonAlmeida/KeltonAlmeida/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -498,34 +287,35 @@ Desenvolvimento de projetos pessoais, acadêmicos e estudos de caso relacionados
 
 ```yaml
 Learning:
-  - Python para análise de dados
-  - SQL e bancos de dados
-  - Power BI e DAX
-  - Excel para análise de dados
-  - Estatística aplicada
-  - Modelagem de dados
-  - ETL e qualidade de dados
+  - Python para Análise de Dados
+  - SQL
+  - Microsoft Excel
+  - Power BI
+  - Looker
+  - Data Visualization
+  - Jupyter Notebook
+  - Business Intelligence
 
 Building:
-  - Portfólio de Analista de Dados Jr.
-  - Dashboards de Business Intelligence
-  - Projetos de análise exploratória
-  - Estudos de caso utilizando SQL
-  - Projetos com Python e Pandas
+  - Portfólio de Analista de Dados
+  - Projeto Comprovação em Dados
+  - Dashboards
+  - Análises Exploratórias
+  - Projetos orientados a dados
 
-Exploring:
-  - Data Engineering
-  - Analytics Engineering
-  - Machine Learning
-  - Cloud para Dados
-  - Automação de processos analíticos
+Improving:
+  - Limpeza e preparação de dados
+  - Visualização de dados
+  - Construção de KPIs
+  - Storytelling com dados
+  - Pensamento analítico
 
 Open_To:
   - Analista de Dados Jr.
   - Analista de BI Jr.
   - Estágio em Dados
-  - Estágio em Business Intelligence
-  - Projetos de Analytics
+  - Business Intelligence
+  - Projetos de Data Analytics
 ```
 
 ---
@@ -542,7 +332,7 @@ Open_To:
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/KeltonAlmeida">
   <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

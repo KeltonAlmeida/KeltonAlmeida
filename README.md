@@ -138,9 +138,17 @@ Graduação voltada ao desenvolvimento de conhecimentos em tecnologia, sistemas,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br"
+  alt="Estatísticas do GitHub de Kelton Almeida"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"
+  alt="Linguagens mais utilizadas por Kelton Almeida"
+/>
 
 </div>
 
@@ -150,13 +158,11 @@ Graduação voltada ao desenvolvimento de conhecimentos em tecnologia, sistemas,
 
 <div align="center">
 
-<a href="https://github.com/KeltonAlmeida">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonAlmeida&theme=react-dark&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub"
-    width="100%"
-    alt="Gráfico de atividade do GitHub de Kelton Almeida"
-  />
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeltonAlmeida&theme=github_dark"
+  width="100%"
+  alt="Resumo de atividade do GitHub de Kelton Almeida"
+/>
 
 </div>
 
@@ -164,7 +170,7 @@ Graduação voltada ao desenvolvimento de conhecimentos em tecnologia, sistemas,
 
 ## Foco Atual
 
-```yaml id="f27w1c"
+```yaml
 Learning:
   - Python
   - SQL
@@ -183,29 +189,3 @@ Open_To:
   - Analista de Dados Jr.
   - Analista de BI Jr.
   - Estágio em Dados
-```
-
----
-
-## Conecte-se
-
-<div align="center">
-
-<a href="mailto:fsakelton@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/keltonalmeida/">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/KeltonAlmeida">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad">
-  <img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
-
-**Transformando dados em informação e informação em melhores decisões.**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=90&section=footer"/>

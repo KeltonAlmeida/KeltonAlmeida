@@ -71,7 +71,7 @@ Tenho interesse em oportunidades como **Analista de Dados Jr., Analista de BI Jr
 | **Python** | Limpeza, transformação e análise de dados |
 | **SQL** | Consultas, JOINs, filtros e agregações |
 | **Excel** | Tratamento, fórmulas, tabelas e análises |
-| **Power BI** | Dashboards, KPIs e visualizações |
+| **Power BI** | Dashboards, indicadores e visualizações |
 | **Looker** | Business Intelligence e visualização |
 | **Data Cleaning** | Tratamento de inconsistências e duplicidades |
 | **Data Visualization** | Gráficos e comunicação visual |
@@ -150,7 +150,13 @@ Graduação voltada ao desenvolvimento de conhecimentos em tecnologia, sistemas,
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonAlmeida&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<a href="https://github.com/KeltonAlmeida">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonAlmeida&theme=react-dark&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub"
+    width="100%"
+    alt="Gráfico de atividade do GitHub de Kelton Almeida"
+  />
+</a>
 
 </div>
 

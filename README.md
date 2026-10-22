@@ -1,129 +1,103 @@
 <div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Kelton Almeida — Data Analytics, Business Intelligence e Software" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/keltonalmeida/"><img src="https://img.shields.io/badge/LINKEDIN-0B1726?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0B1726?style=for-the-badge&logo=notion&logoColor=00D9FF" alt="Portfólio" /></a>
+  <a href="mailto:fsakelton@gmail.com"><img src="https://img.shields.io/badge/CONTATO-0B1726?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Contato" /></a>
+</div>
 
-# Kelton Almeida
+<br/>
 
-### Data Analytics • Business Intelligence • Information Systems
+### `01 / SOBRE MIM`  <img align="right" src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-0B1726?style=flat-square&labelColor=15293F&color=00D9FF" alt="Aberto a oportunidades" />
 
-Transformo dados em análises, indicadores e dashboards que ajudam a responder perguntas de negócio e apoiar decisões.
+Sou **Kelton Almeida**, estudante de **Sistemas de Informação** na UNEX, com foco em **Análise de Dados, Business Intelligence e Desenvolvimento de Software**\.
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=notion&logoColor=white)](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keltonalmeida/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fsakelton@gmail.com)
+Transformo dados em indicadores e dashboards para apoiar decisões e desenvolvo aplicações para resolver problemas reais de negócio\. Busco oportunidades para evoluir em **Dados, BI e Tecnologia**\.
+
+> `// Da análise à implementação: dados claros, decisões melhores, sistemas funcionais.`
+
+---
+
+### `02 / TECH STACK`
+
+<div align="center">
+
+**DESENVOLVIMENTO**
+
+![PHP](https://img.shields.io/badge/PHP-0B1726?style=for-the-badge&logo=php&logoColor=00D9FF) ![Python](https://img.shields.io/badge/PYTHON-0B1726?style=for-the-badge&logo=python&logoColor=00D9FF)
+
+**DADOS & INTELIGÊNCIA DE NEGÓCIOS**
+
+![Looker](https://img.shields.io/badge/LOOKER-0B1726?style=for-the-badge&logo=looker&logoColor=00D9FF) ![Excel](https://img.shields.io/badge/EXCEL-0B1726?style=for-the-badge&logoColor=00D9FF) ![Pandas](https://img.shields.io/badge/PANDAS-0B1726?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+
+**CLOUD & FERRAMENTAS**
+
+![AWS](https://img.shields.io/badge/AWS-0B1726?style=for-the-badge&logo=amazonwebservices&logoColor=00D9FF) ![Git](https://img.shields.io/badge/GIT-0B1726?style=for-the-badge&logo=git&logoColor=00D9FF) ![SQLite](https://img.shields.io/badge/SQLITE-0B1726?style=for-the-badge&logo=sqlite&logoColor=00D9FF)
 
 </div>
 
 ---
 
-## Sobre
+### `03 / PROJETOS EM DESTAQUE`
 
-Sou estudante de **Sistemas de Informação**, direcionando minha formação para **Análise de Dados e Business Intelligence**.
+<table>
+<tr><td width="50%" valign="top">
 
-Meu foco é construir soluções que partem de dados brutos e chegam a uma entrega útil: bases organizadas, métricas bem definidas, análises exploratórias e dashboards de fácil interpretação.
+**`PROJECT_01`**** — **[**Dashboard Comercial ↗**](https://github.com/KeltonAlmeida/Dashboard-Comercial)
 
-Atualmente busco oportunidades como **Analista de Dados Júnior**, **Analista de BI Júnior** ou **Estagiário em Dados**, onde eu possa continuar evoluindo tecnicamente e contribuir com análises orientadas a negócio.
+📊 **Excel · KPIs · BI**
 
----
+Dashboard de vendas baseado em **240 pedidos fictícios**, com indicadores de receita, lucro, margem e ticket médio, além de filtros por região, categoria e canal\.
 
-## Projetos selecionados
+</td><td width="50%" valign="top">
 
-### 📊 [Dashboard Comercial — Excel](https://github.com/KeltonAlmeida/Dashboard-Comercial)
+**`PROJECT_02`**** — **[**Análise de Dados com Python ↗**](https://github.com/KeltonAlmeida/Comprova-es-Dados)
 
-Dashboard para acompanhamento do desempenho comercial de uma empresa fictícia no primeiro semestre de 2026.
+🐍 **Python · Pandas · NumPy**
 
-**O que foi desenvolvido**
-- Estruturação e organização de uma base com 240 pedidos.
-- Cálculo de receita, lucro, margem bruta, ticket médio e volume de pedidos.
-- Análises por região, categoria, produto e canal de venda.
-- Filtros dinâmicos e indicadores executivos.
-- Documentação das regras de negócio e limitações da análise.
+Notebook com exercícios de leitura, limpeza, transformação, análise exploratória e visualização de dados usando Matplotlib e Seaborn\.
 
-**Stack:** Excel • Fórmulas • KPIs • Data Visualization • Business Analysis
+</td></tr>
+<tr><td width="50%" valign="top">
 
-> Resultado geral do cenário analisado: **R$ 125,8 mil em receita**, **R$ 58,1 mil em lucro** e **46,2% de margem bruta**.
+**`PROJECT_03`**** — **[**Warehouse Payments API ↗**](https://github.com/KeltonAlmeida/warehouse-payments-php)
 
----
+⚙️ **PHP 8\.2 · REST · SQLite**
 
-### 🐍 [Análise de Dados com Python](https://github.com/KeltonAlmeida/Comprova-es-Dados)
+Projeto inicial de API para controle de depósitos, movimentações de estoque e pagamentos simulados, com GitHub Actions para validação de sintaxe\.
 
-Notebook voltado à prática de análise exploratória de dados com Python.
+</td><td width="50%" valign="top">
 
-**Competências aplicadas**
-- Leitura, limpeza e transformação de dados.
-- Exploração e análise estatística básica.
-- Criação de visualizações para identificação de padrões.
-- Uso de bibliotecas do ecossistema de dados em Python.
+**`PROJECT_04`**** — **[**Sistema de Gestão Acadêmica ↗**](https://github.com/KeltonAlmeida/Python-Sistema-Escolar)
 
-**Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+🎓 **Python · CLI · Lógica**
+
+Aplicação de terminal para cadastrar alunos, calcular médias e classificar resultados acadêmicos\.
+
+</td></tr>
+</table>
 
 ---
 
-### 📦 [Warehouse Payments API](https://github.com/KeltonAlmeida/warehouse-payments-php)
-
-API em PHP para gerenciamento de depósitos, estoque e pagamentos, criada para praticar organização de software e regras de negócio.
-
-**Destaques**
-- Controle de entrada, saída e transferência de estoque.
-- Histórico de movimentações e transações de banco.
-- Camada desacoplada para gateways de pagamento.
-- API JSON com SQLite e workflow de validação no GitHub Actions.
-
-**Stack:** PHP 8.2 • SQLite • REST API • GitHub Actions
-
----
-
-## Tecnologias
-
-**Dados e análise**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**BI e visualização**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Desenvolvimento**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## O que estou desenvolvendo agora
-
-- Análise exploratória e tratamento de dados com **Python e Pandas**.
-- Consultas e manipulação de dados com **SQL**.
-- Dashboards e indicadores com **Excel, Power BI e Looker**.
-- Comunicação de resultados através de **data visualization e storytelling**.
-- Projetos de portfólio com foco em problemas próximos ao contexto de negócio.
-
----
-
-## GitHub
+### `04 / GITHUB TELEMETRY`
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E&title_color=58A6FF&langs_count=6" alt="Most used languages" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0B1726&title_color=00D9FF&text_color=DFEBF6&icon_color=00D9FF" alt="Estatísticas GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0B1726&title_color=00D9FF&text_color=DFEBF6&langs_count=6" alt="Linguagens mais utilizadas" />
 </div>
 
+<sub>Os painéis acima dependem de um serviço externo e podem ficar temporariamente indisponíveis\.</sub>
+
 ---
 
 <div align="center">
 
-### Contato
+### `05 / CONNECT WITH ME`
 
-Estou aberto a oportunidades de entrada na área de **Dados e BI**, além de projetos onde análise, organização de informação e resolução de problemas façam parte do dia a dia.
+**Construindo soluções na interseção entre dados, negócio e tecnologia\.**
 
-[LinkedIn](https://www.linkedin.com/in/keltonalmeida/) • [Portfólio](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad) • [E-mail](mailto:fsakelton@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/keltonalmeida/) · [Portfólio](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad) · [E\-mail](mailto:fsakelton@gmail.com)
+
+<sub>© Kelton Almeida · DATA SYSTEMS</sub>
 
 </div>

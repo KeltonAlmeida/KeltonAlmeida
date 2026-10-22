@@ -1,5 +1,13 @@
 <div align="center">
 
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=200&amp;color=0:070B16,50:10213A,100:006D85&amp;text=KELTON%20ALMEIDA&amp;fontColor=EAFBFF&amp;fontSize=45&amp;fontAlignY=42&amp;desc=DATA%20SYSTEMS%20%2F%2F%20ANALYTICS%20%E2%80%A2%20BI%20%E2%80%A2%20SOFTWARE&amp;descAlignY=68&amp;descSize=15"
+  alt="Kelton Almeida — Data Systems"
+/>
+
+
 <img width="100%" src="./assets/hero.svg" alt="Kelton Almeida — Data Systems" />
 
 ### `[ SYSTEM ONLINE ]` · DATA ANALYTICS · BUSINESS INTELLIGENCE · SOFTWARE

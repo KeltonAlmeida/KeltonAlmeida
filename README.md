@@ -1,72 +1,119 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=180&amp;color=0:070B16,50:10213A,100:006D85&amp;text=KELTON%20ALMEIDA&amp;fontColor=EAFBFF&amp;fontSize=43&amp;fontAlignY=40&amp;desc=DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20%E2%80%A2%20SOFTWARE&amp;descAlignY=68&amp;descSize=15" alt="Kelton Almeida — Dados, Business Intelligence e Desenvolvimento" />
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&amp;height=200&amp;color=0:070B16,50:10213A,100:006D85&amp;text=KELTON%20ALMEIDA&amp;fontColor=EAFBFF&amp;fontSize=45&amp;fontAlignY=42&amp;desc=DATA%20SYSTEMS%20%2F%2F%20ANALYTICS%20%E2%80%A2%20BI%20%E2%80%A2%20SOFTWARE&amp;descAlignY=68&amp;descSize=15"
-  alt="Kelton Almeida — Data Systems"
-/>
+### Análise de Dados · Business Intelligence · Desenvolvimento de Software
 
-### `[ SYSTEM ONLINE ]` · DATA ANALYTICS · BUSINESS INTELLIGENCE · SOFTWARE
+**Transformo dados em indicadores claros e problemas de negócio em soluções práticas.**
 
-**Transformando dados em decisões e ideias em soluções.**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1726?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/keltonalmeida/)
-[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-0B1726?style=for-the-badge&logo=notion&logoColor=00D9FF)](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad)
-[![Contato](https://img.shields.io/badge/CONTATO-0B1726?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:fsakelton@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1726?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/keltonalmeida/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1726?style=for-the-badge&logo=notion&logoColor=00D9FF)](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad)
+[![E-mail](https://img.shields.io/badge/E--mail-0B1726?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:fsakelton@gmail.com)
 
 </div>
 
 ---
 
-### `01 / SOBRE MIM`
+## Sobre mim
 
 Sou **Kelton Almeida**, estudante de **Sistemas de Informação na UNEX**, com foco em **Análise de Dados, Business Intelligence e Desenvolvimento de Software**.
 
-Crio dashboards para acompanhar indicadores de negócio, exploro dados com Python e desenvolvo aplicações que transformam requisitos em funcionalidades. Busco oportunidades para crescer em **Dados, BI e Tecnologia**.
+Desenvolvo projetos de ponta a ponta: organizo e interpreto bases de dados, defino indicadores, crio dashboards e documento os resultados para facilitar a tomada de decisão. Também construo aplicações para exercitar lógica, modelagem e integração de sistemas.
 
-> `// Dados claros. Decisões melhores. Sistemas funcionais.`
+Tenho interesse em oportunidades de **estágio e posições júnior em Dados, BI e Tecnologia**, nas quais eu possa aplicar fundamentos técnicos, aprender com problemas reais e evoluir continuamente.
 
-### `02 / TECH STACK`
+**Áreas de interesse:** dashboards e KPIs · análise exploratória · controle orçamentário · automação de análises · aplicações e APIs.
+
+## Projetos em destaque
+
+### 01 · [OrçaView — Dashboard de Controle Orçamentário 2026 ↗](https://github.com/KeltonAlmeida/dashboard-controle-orcamentario-2026)
+
+**Desafio:** transformar registros de custos previstos e realizados em uma visão gerencial para identificar desvios e acompanhar o orçamento.
+
+**Solução:** dashboard interativo com comparação mensal e acumulada, análises por centro de custo e categoria, identificação de estouros e economias, filtros dinâmicos e exportação CSV.
+
+**Destaques do recorte jan–set/2026:**
+
+| Indicador | Resultado |
+| :--- | ---: |
+| Custos orçados | **≈ R$ 3,46 milhões** |
+| Custos realizados | **≈ R$ 3,45 milhões** |
+| Desvio financeiro | **−R$ 11.048,55** |
+| Desvio percentual | **−0,32%** |
+
+**Escopo:** 576 itens conciliados por ID, 6 centros de custo e 21 categorias. **Tecnologias:** Excel, HTML5, CSS3 e JavaScript.
+
+[**Explorar o repositório e a base de dados →**](https://github.com/KeltonAlmeida/dashboard-controle-orcamentario-2026)
+
+> **Nota de integridade:** os números correspondem ao período de janeiro a setembro de 2026. A base também contém registros futuros; por isso, os meses posteriores não são apresentados como resultados já encerrados.
+
+### 02 · [Dashboard Comercial — Análise de Vendas 2026 ↗](https://github.com/KeltonAlmeida/Dashboard-Comercial)
+
+**Desafio:** acompanhar o desempenho de vendas e localizar os segmentos com maior contribuição para o resultado.
+
+**Solução:** dashboard em Excel com indicadores de receita, lucro, margem e ticket médio, além de filtros por região, categoria e canal.
+
+| Indicador | Resultado da base fictícia |
+| :--- | ---: |
+| Pedidos analisados | **240** |
+| Receita total | **R$ 125.841,00** |
+| Lucro total | **R$ 58.183,00** |
+| Margem bruta | **46,2%** |
+
+**Tecnologias:** Excel, fórmulas condicionais, tabelas de apoio e gráficos.
+
+[**Ver dashboard e documentação →**](https://github.com/KeltonAlmeida/Dashboard-Comercial)
+
+### Outros projetos
+
+| Projeto | O que demonstra | Tecnologias |
+| :--- | :--- | :--- |
+| [Análise de Dados com Python ↗](https://github.com/KeltonAlmeida/Comprova-es-Dados) | Leitura, limpeza, transformação, exploração e visualização de dados em notebook. | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| [Warehouse Payments API ↗](https://github.com/KeltonAlmeida/warehouse-payments-php) | API de exemplo para estoque, depósitos e pagamentos simulados, com rotas REST e persistência de dados. | PHP 8.2 · REST · SQLite |
+| [Sistema de Gestão Acadêmica ↗](https://github.com/KeltonAlmeida/Python-Sistema-Escolar) | Aplicação de terminal para cadastro de alunos, cálculo de médias e classificação de resultados. | Python · CLI |
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
-**DESENVOLVIMENTO**
+**Análise de dados e BI**
+
+![Python](https://img.shields.io/badge/Python-0B1726?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Pandas](https://img.shields.io/badge/Pandas-0B1726?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+![Excel](https://img.shields.io/badge/Excel-0B1726?style=for-the-badge&logo=microsoftexcel&logoColor=00D9FF)
+![Looker](https://img.shields.io/badge/Looker-0B1726?style=for-the-badge&logo=looker&logoColor=00D9FF)
+
+**Desenvolvimento e dados**
 
 ![PHP](https://img.shields.io/badge/PHP-0B1726?style=for-the-badge&logo=php&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/PYTHON-0B1726?style=for-the-badge&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1726?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-0B1726?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0B1726?style=for-the-badge&logo=css3&logoColor=00D9FF)
+![SQLite](https://img.shields.io/badge/SQLite-0B1726?style=for-the-badge&logo=sqlite&logoColor=00D9FF)
 
-**DADOS & BUSINESS INTELLIGENCE**
+**Versionamento e infraestrutura**
 
-![Looker](https://img.shields.io/badge/LOOKER-0B1726?style=for-the-badge&logo=looker&logoColor=00D9FF)
-![Excel](https://img.shields.io/badge/EXCEL-0B1726?style=for-the-badge&logoColor=00D9FF)
-![Pandas](https://img.shields.io/badge/PANDAS-0B1726?style=for-the-badge&logo=pandas&logoColor=00D9FF)
-
-**CLOUD & FERRAMENTAS**
-
+![Git](https://img.shields.io/badge/Git-0B1726?style=for-the-badge&logo=git&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1726?style=for-the-badge&logo=github&logoColor=00D9FF)
 ![AWS](https://img.shields.io/badge/AWS-0B1726?style=for-the-badge&logo=amazonwebservices&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/GIT-0B1726?style=for-the-badge&logo=git&logoColor=00D9FF)
-![SQLite](https://img.shields.io/badge/SQLITE-0B1726?style=for-the-badge&logo=sqlite&logoColor=00D9FF)
 
 </div>
 
-### `03 / PROJETOS EM DESTAQUE`
+<sub>Ferramentas com as quais estudo ou desenvolvo projetos; os repositórios acima mostram aplicações práticas de parte dessa stack.</sub>
 
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| **[01 · Dashboard Comercial ↗](https://github.com/KeltonAlmeida/Dashboard-Comercial)** | Dashboard de vendas com 240 pedidos fictícios, indicadores de receita, lucro, margem e ticket médio, além de filtros interativos. | Excel · KPIs · BI |
-| **[02 · Análise de Dados com Python ↗](https://github.com/KeltonAlmeida/Comprova-es-Dados)** | Notebook com limpeza, transformação, análise exploratória e visualizações de dados. | Python · Pandas · NumPy · Seaborn |
-| **[03 · Warehouse Payments API ↗](https://github.com/KeltonAlmeida/warehouse-payments-php)** | Starter de API para depósitos, movimentações de estoque e pagamentos simulados. | PHP 8.2 · REST · SQLite |
-| **[04 · Sistema de Gestão Acadêmica ↗](https://github.com/KeltonAlmeida/Python-Sistema-Escolar)** | Aplicação de terminal para cadastrar alunos, calcular médias e classificar resultados. | Python · CLI |
+## Minha abordagem
 
-### `04 / GITHUB TELEMETRY`
+**Entender o problema → organizar os dados → definir métricas → desenvolver a solução → comunicar resultados.**
+
+Valorizo projetos reproduzíveis, documentação objetiva, transparência sobre as fontes e limites das análises, e interfaces que facilitem o uso dos resultados.
+
+## Atividade no GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&show_icons=true&hide_border=true&bg_color=0B1726&title_color=00D9FF&text_color=DFEBF6&icon_color=00D9FF" alt="Estatísticas GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonAlmeida&layout=compact&hide_border=true&bg_color=0B1726&title_color=00D9FF&text_color=DFEBF6&langs_count=6" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeltonAlmeida&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1726&amp;title_color=00D9FF&amp;text_color=DFEBF6&amp;icon_color=00D9FF" alt="Resumo público de atividade no GitHub" />
 
-<sub>As estatísticas são fornecidas por um serviço externo e podem ficar temporariamente indisponíveis.</sub>
+<sub>Indicador complementar fornecido por serviço externo; pode ficar indisponível temporariamente.</sub>
 
 </div>
 
@@ -74,12 +121,12 @@ Crio dashboards para acompanhar indicadores de negócio, exploro dados com Pytho
 
 <div align="center">
 
-### `05 / CONNECT WITH ME`
+### Vamos conversar?
 
-**Construindo soluções na interseção entre dados, negócio e tecnologia.**
+Tenho interesse em colaborar em iniciativas que conectem **dados, indicadores de negócio e desenvolvimento de software**.
 
-[LinkedIn](https://www.linkedin.com/in/keltonalmeida/) · [Portfólio](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad) · [E-mail](mailto:fsakelton@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/keltonalmeida/) · [**Portfólio**](https://spiky-teacher-607.notion.site/Portf-lio-Kelton-Almeida-Analista-de-Dados-Jr-99610a6b18534def967c611b183861ad) · [**E-mail**](mailto:fsakelton@gmail.com)
 
-<sub>© Kelton Almeida · DATA SYSTEMS</sub>
+<sub>Kelton Almeida · Dados · BI · Tecnologia</sub>
 
 </div>

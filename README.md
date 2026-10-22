@@ -7,9 +7,6 @@
   alt="Kelton Almeida — Data Systems"
 />
 
-
-<img width="100%" src="./assets/hero.svg" alt="Kelton Almeida — Data Systems" />
-
 ### `[ SYSTEM ONLINE ]` · DATA ANALYTICS · BUSINESS INTELLIGENCE · SOFTWARE
 
 **Transformando dados em decisões e ideias em soluções.**
